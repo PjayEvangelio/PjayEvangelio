@@ -54,12 +54,15 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1 1 300px; max-width: 100%; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PjayEvangelio&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&token=YOUR_GITHUB_TOKEN" alt="pjayevangelio" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PjayEvangelio&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </div>
+  
   <div style="flex: 1 1 300px; max-width: 100%; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PjayEvangelio&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&token=YOUR_GITHUB_TOKEN" alt="pjayevangelio" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PjayEvangelio&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </div>
+
   <div style="flex: 1 1 300px; max-width: 100%; margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PjayEvangelio&theme=material-palenight&hide_border=false&token=YOUR_GITHUB_TOKEN" alt="pjayevangelio" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PjayEvangelio&theme=material-palenight&hide_border=false" alt="GitHub Streak" />
   </div>
+
 </div>
