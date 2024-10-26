@@ -67,7 +67,7 @@
 <hr style="border: 1px solid lightgray; width: 50%;">
 
 <div align="center">
-  <h3>Pjay's GitHub Stats 📊</h3>
+  <h3>My GitHub Stats 📊</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=PjayEvangelio&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PjayEvangelio&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
 </div>
