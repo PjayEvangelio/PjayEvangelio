@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b3d30f1c-f71b-4e99-bd7d-e655a64cdc2d" alt="Image with Border" style="padding: 5px; background-color: white; border-radius: 10px; max-width: 100%;">
 </div>
 
-<h1 align="center">🇵🇭Hi, I'm Pjay!🏀</h1>
+<h1 align="center">🇵🇭 Hi, I'm Pjay! 🏀</h1>
 
 <h3 align="center">⚡️I'm Passionate About Software Engineering & Game Development⚡️</h3>
 
