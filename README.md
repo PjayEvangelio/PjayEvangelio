@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/7e/30/f6/7e30f6211a5f6964c45b1a7d222fff45.gif">
+<img src="https://github.com/user-attachments/assets/9fc8ff30-f0d7-4342-8a1f-05230586dbd2" alt="Image">
 
 <h1 align="center">Hi 👋, I'm Pjay</h1>
 <h3 align="center">Computer Science Student | Passionate About Software Engineering & Game Development</h3>
