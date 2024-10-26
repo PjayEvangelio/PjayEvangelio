@@ -7,15 +7,15 @@
 <h3 align="center">⚡️I'm Passionate About Software Engineering & Game Development⚡️</h3>
 
 <div align="center">
-  <table style="width:100%;">
+  <table style="width:80%; max-width:800px; margin: 0 auto;">
     <tr>
-      <td align="left">
+      <td align="left" style="vertical-align: top;">
         <p align="left">
           <img src="https://visitcount.itsvg.in/api?id=PjayEvangelio&icon=0&color=1" alt="Profile views" />
         </p>
         🎓 I am a 3rd Year Computer Science Student at Dublin City University<br><br>
-        🐚 All of my projects are available at [https://github.com/PjayEvangelio](https://github.com/PjayEvangelio)<br><br>
-        📬 Feel free to reach out through my email **evangeliopatrick23@gmail.com**<br><br>
+        🐚 All of my projects are available at <a href="https://github.com/PjayEvangelio" target="_blank">https://github.com/PjayEvangelio</a><br><br>
+        📬 Feel free to reach out through my email <a href="mailto:evangeliopatrick23@gmail.com">evangeliopatrick23@gmail.com</a><br><br>
         🔥 Fun fact: My first video game was Pokémon Platinum
       </td>
       <td align="center">
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/patrickjohnevangelio" target="blank">
+  <a href="https://linkedin.com/in/patrickjohnevangelio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
