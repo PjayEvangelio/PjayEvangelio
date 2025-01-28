@@ -11,7 +11,7 @@
     <tr>
       <td align="left" style="vertical-align: top;">
         <p align="left">
-          <img src="https://visitcount.itsvg.in/api?id=PjayEvangelio&icon=0&color=1" alt="Profile views" />
+          <img src="https://komarev.com/ghpvc/?username=PjayEvangelio&label=Profile%20Views&color=82aaff&style=flat-square" alt="Profile Views" />
         </p>
         🎓 I am a 3rd Year Computer Science Student at Dublin City University<br><br>
         🐚 All of my projects are available at <a href="https://github.com/PjayEvangelio" target="_blank">https://github.com/PjayEvangelio</a><br><br>
