@@ -40,7 +40,7 @@
 
 #### 🖥️ Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,haskell,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,haskell,html,css" alt="Languages" />
 </p>
 
 #### 📚 Frameworks & Libraries  
