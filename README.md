@@ -50,7 +50,7 @@
 
 #### 🛠️ Developer Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,androidstudio" alt="Developer Tools" />
 </p>
 
 #### 🗄️ Databases  
