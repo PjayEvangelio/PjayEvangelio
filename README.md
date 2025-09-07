@@ -2,9 +2,11 @@
   <img src="https://github.com/user-attachments/assets/b3d30f1c-f71b-4e99-bd7d-e655a64cdc2d" alt="Image with Border" style="padding: 5px; background-color: white; border-radius: 10px; max-width: 100%;">
 </div>
 
-<h1 align="center">🇵🇭 Hi, I'm Pjay! 🏀</h1>
+<h1 align="center">
+  <img src="https://flagcdn.com/w40/ph.png" width="50" height="50"/> Hi, I'm Pjay! 🏀
+</h1>
 
-<h3 align="center">⚡️I'm Passionate About Software Engineering & Game Development⚡️</h3>
+<h3 align="center">⚡️I'm Passionate About Software Engineering⚡️</h3>
 
 <div align="center">
   <table style="width:80%; max-width:800px; margin: 0 auto;">
@@ -13,7 +15,7 @@
         <p align="left">
           <img src="https://komarev.com/ghpvc/?username=PjayEvangelio&label=Profile%20Views&color=82aaff&style=flat-square" alt="Profile Views" />
         </p>
-        🎓 I am a 3rd Year Computer Science Student at Dublin City University<br><br>
+        🎓 I am a 4th Year Computer Science Student at Dublin City University<br><br>
         🐚 All of my projects are available at <a href="https://github.com/PjayEvangelio" target="_blank">https://github.com/PjayEvangelio</a><br><br>
         📬 Feel free to reach out through my email <a href="mailto:evangeliopatrick23@gmail.com">evangeliopatrick23@gmail.com</a><br><br>
         🔥 Fun fact: My first video game was Pokémon Platinum
@@ -43,14 +45,14 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,javascript,haskell,html,css" alt="Languages" />
 </p>
 
-#### 📚 Frameworks & Libraries  
+#### 📚 Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,django,bootstrap" alt="Frameworks & Libraries" />
 </p>
 
 #### 🛠️ Developer Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,androidstudio" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,docker,linux" alt="Developer Tools" />
 </p>
 
 #### 🗄️ Databases  
