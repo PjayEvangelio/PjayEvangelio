@@ -47,17 +47,30 @@
 
 #### 📚 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,django,bootstrap" alt="Frameworks & Libraries" />
+  <!-- From SkillIcons -->
+  <img src="https://skillicons.dev/icons?i=react,django" alt="React and Django Icons" />
+
+  <!-- Jetpack Compose (from Devicon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="48" height="48" alt="Jetpack Compose" style="margin-left:8px;"/>
+
+  <!-- Back to SkillIcons -->
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" />
+
+  <!-- Expo (from Devicon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="48" height="48" alt="Expo" style="margin-left:8px;"/>
+
+  <!-- Final SkillIcons -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" />
 </p>
 
 #### 🛠️ Developer Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,docker,linux" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,androidstudio,gradle,linux,figma" alt="Developer Tools" />
 </p>
 
 #### 🗄️ Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
 </p>
 
 ---
